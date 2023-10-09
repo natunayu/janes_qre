@@ -1,0 +1,6 @@
+Key,Question
+gender,性別はどちらですか？  (yes=男 no=女)
+breakfast,朝食は食べましたか？ (yes=はい no=いいえ)
+soccer,サッカーのルールを知っていますか？(yes=はい no=いいえ)
+zoo,動物園に行ったことはありますか？(yes=はい no=いいえ)
+programming,プログラミングをした事はありますか？(yes=はい no=いいえ)
